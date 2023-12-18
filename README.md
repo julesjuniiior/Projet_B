@@ -17,9 +17,11 @@ Le but de ce projet est de créer un système capable de compter des composants 
 * ![Entrainement](https://github.com/julesjuniiior/Projet_B/assets/148440742/0a9eb891-5ea5-4a05-ae0c-230d8258e1ce)
     j'ai plutôt obtenu un bon score de 0.95, cependant le modèle est un peu lourd en terme de ressources memoires
   * Deploiement du modèle
-    []()
+    [code](nano_ble33_sense_camera)
 
 
 * connexion Bluetooth arduino sense -----> Node-red   [BLE_Node-red](test_connecxion-BLE/test_connecxion-BLE.ino)
+  
      *schema dashbord connexion
+  
     ![Entrainement](images/node-red.png)
