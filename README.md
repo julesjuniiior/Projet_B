@@ -31,6 +31,7 @@ Le but de ce projet est de créer un système capable de compter des composants 
   * ![Entrainement](images/fnction_nd.png)
 
   ### Interface Node-red
+  
     * l'interface est constitué de deux onglets dont un pour la connection de l'utilisateur et l'autre pour le visuel du comptage des composants
  
     *  ![user](images/connexion.png)
