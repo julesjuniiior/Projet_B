@@ -7,6 +7,10 @@ Le but de ce projet est de créer un système capable de compter des composants 
 ## Etapes de réalisation
 * Création du modèle sur Edge impulse
    * 1e étape: Upload Dataset
+     comme donnée ici j'ai logiquement utilisé les images des composants(prise d'une camera de plus grande qualité) et j'ai également pris quelques images avec la caméra OV afin que mon modèle puisse également se baser sur les images prises par la caméra qui sera au final utilisé, malgré qu'elle soit de très mauvaise qualité.
+     
    * 2e étape: Create Impulse
+     comme bloc d'apprentissage j'ai choisi Transfer learning (image)
    *  3e étape: Extract Features
-  
+      j'ai choici une couleur RVB
+* 4e étape: Entrainement du modèle
