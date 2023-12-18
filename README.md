@@ -5,7 +5,7 @@ Le but de ce projet est de créer un système capable de compter des composants 
 ![description](https://github.com/julesjuniiior/Projet_B/assets/148440742/407354ec-ed44-4d7e-91b6-9385e1f6f03b)
 
 ## Etapes de réalisation
-* Création du modèle sur Edge impulse
+### Création du modèle sur Edge impulse
    * 1e étape: Upload Dataset
      comme donnée ici j'ai logiquement utilisé les images des composants(prise d'une camera de plus grande qualité) et j'ai également pris quelques images avec la caméra OV afin que mon modèle puisse également se baser sur les images prises par la caméra qui sera au final utilisé, malgré qu'elle soit de très mauvaise qualité.
      
@@ -20,8 +20,16 @@ Le but de ce projet est de créer un système capable de compter des composants 
     [code](nano_ble33_sense_camera)
 
 
-* connexion Bluetooth arduino sense -----> Node-red   [BLE_Node-red](test_connecxion-BLE/test_connecxion-BLE.ino)
+  ### connexion Bluetooth arduino sense -----> Node-red
+
+    [BLE_Node-red](test_connecxion-BLE/test_connecxion-BLE.ino)
   
-     *schema dashbord connexion
+     * schema dashbord connexion
   
     ![Entrainement](images/node-red.png)
+
+  ### Interface Node-red
+    * l'interface est constitué de deux onglets dont un pour la connection de l'utilisateur et l'autre pour le visuel du comptage des composants
+ 
+    *  ![user](images/node-red.png)
+    *   ![interface](images/node-red.png)
