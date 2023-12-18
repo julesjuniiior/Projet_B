@@ -6,4 +6,7 @@ Le but de ce projet est de créer un système capable de compter des composants 
 
 ## Etapes de réalisation
 * Création du modèle sur Edge impulse
+   * 1e étape: Upload Dataset
+   * 2e étape: Create Impulse
+   *  3e étape: Extract Features
   
