@@ -27,9 +27,11 @@ Le but de ce projet est de créer un système capable de compter des composants 
      * schema dashbord connexion
   
     ![Entrainement](images/node-red.png)
+  
+  * ![Entrainement](images/fnction_nd.png)
 
   ### Interface Node-red
     * l'interface est constitué de deux onglets dont un pour la connection de l'utilisateur et l'autre pour le visuel du comptage des composants
  
-    *  ![user](images/node-red.png)
-    *   ![interface](images/node-red.png)
+    *  ![user](images/connexion.png)
+    *   ![interface](images/interface.png)
